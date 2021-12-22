@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, software development
 - 🌱 I’m currently learning how to use git!
 - 💞️ I’m looking to collaborate on Java, Python, or Javascript
-- 📫 How to reach me slee692@illinois.edu
+- 📫 How to reach me: email at slee692@illinois.edu
 
 <!---
 slee692/slee692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
