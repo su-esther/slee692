@@ -2,7 +2,7 @@ Hi, I'm Esther!
 
 🎵Currently exploring music AI.
 
-Languages worked with: C++, Python, JavaScript, Java
+Languages: C++, Python, JavaScript, Java
 
 <!---
 slee692/slee692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
