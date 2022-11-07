@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @slee692
-- 👀 I’m interested in AI, software development
-- 🌱 I’m currently learning C++!
-- 💞️ I’m looking to collaborate on Java, Python, or Javascript
-- 📫 How to reach me: email at slee692@illinois.edu
+Hi, I'm Esther!
+🎵Currently exploring music AI.
+Languages worked with: C++, Python, JavaScript, Java
 
 <!---
 slee692/slee692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
