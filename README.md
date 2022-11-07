@@ -1,5 +1,7 @@
 Hi, I'm Esther!
+
 🎵Currently exploring music AI.
+
 Languages worked with: C++, Python, JavaScript, Java
 
 <!---
